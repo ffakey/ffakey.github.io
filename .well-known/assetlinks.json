@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.ffakey.instantapptest",
+    "sha256_cert_fingerprints":
+    ["10:BC:72:54:0E:7F:A6:8F:33:4D:7C:80:0C:D2:E4:89:D7:40:71:14:37:32:23:8B:69:95:93:49:BB:6A:FA:07"]
+  }
+}]
